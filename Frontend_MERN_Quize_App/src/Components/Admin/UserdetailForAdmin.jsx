@@ -36,6 +36,7 @@ export const UserdetailForAdmin = (props) => {
                         <img
                           alt="profil"
                           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8czzbrLzXJ9R_uhKyMiwj1iGxKhJtH7pwlQ&usqp=CAU"
+                          // src = "./mukesh.jpg"
                           class="mx-auto object-cover rounded-full h-10 w-10"
                         />
                       </a>

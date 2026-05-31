@@ -40,16 +40,15 @@ export const Admin = () => {
                 className="title text-4xl font-semibold  text-sky-500 pb-4 ml-2 mt-0"
                 style={{ fontFamily: "Quicksand" }}
               >
-                Sudhir P Chavhan 👋
+                Mukesh Chaudhary 👋
               </h1>{" "}
             </h1>
           </div>
           <div className=" ml-32 leading-normal">
             <p className="text-lg text-black-100 leading-loose">
-              A Full Stack Web Developer 🚀 from Nagpur, India, currently 💻 I'm
-              doing my Full Stack Development from Masai School. I am passionate
-              about technology and want to learn & explore new technologies. I
-              love travelling and doing farming in free time.
+              Passionate Full Stack Developer | Problem Solver | Lifelong Learner.
+
+I am a dedicated and enthusiastic Full Stack Developer with a strong passion for building efficient, scalable, and user-friendly digital solutions. With hands-on experience in both front-end and back-end technologies, I love turning ideas into real, impactful products.
             </p>
           </div>
           <div className="flex mt-12 space-x-4 ml-32 ">
@@ -125,7 +124,8 @@ export const Admin = () => {
         </div>
         <div className="w-5/12 p-16 ml-24">
           <img
-            src="./sudhir.jpg"
+            src="./mukesh.jpe
+          g"
             alt="admin"
             className="h-[300px] w-[300px] rounded-full "
           />
